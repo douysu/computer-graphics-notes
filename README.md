@@ -24,8 +24,8 @@
 
 内容 | 源代码位置 |  
 -|-|
-[3D模型骨架提取及分析](https://blog.csdn.net/ModestBean/article/details/89632272) | [代码位置](https://github.com/ModestBean/algorithm/tree/master/3D-skeleton) |
-[3D曲率原理及计算（3D-Mesh）](https://blog.csdn.net/ModestBean/article/details/89438082) | [代码位置](https://github.com/ModestBean/algorithm/tree/master/3D-PLY)|
+[3D模型骨架提取及分析](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/ModestBean/algorithm/tree/master/3D-skeleton) |
+[3D曲率原理及计算（3D-Mesh）](https://blog.csdn.net/ModestBean/article/details/89438082) | [源代码位置](https://github.com/ModestBean/algorithm/tree/master/3D-PLY)|
 
 
 ## Shader着色器
