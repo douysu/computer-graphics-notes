@@ -4,7 +4,7 @@
 
 如果写的内容对您有帮助，或者帮您解决了棘手的问题，还希望您能点击一下右上角的``Star⭐️``，您的Star代表了一种认可，我才会更有动力坚持下去~~~万分感谢。
 
-当然，您有什么问题和意见都可以联系我，我的联系方式是[邮箱：yindou97@163.com](mailto:yindou97@163.com)，QQ：619192323。我的主要博客：[CSDN](https://blog.csdn.net/ModestBean)
+当然，您有什么问题和意见都可以联系我，我的联系方式是[邮箱：yindou97@163.com](mailto:yindou97@163.com)，微信ID：qq619192323（别问这到底是QQ还是微信，问就是微信-笑）。我的主要博客：[CSDN](https://blog.csdn.net/ModestBean)
 
 ``重要：当您发现我所写的内容存在不合理的地方时，请您尽快联系我，因为在我眼里，误导他人是一件非常严重的事情。感谢~``
 
@@ -47,7 +47,7 @@
 
 内容 | 源代码位置 |  
 -|-|
-[radon直线检测及绘制直线](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/ModestBean/algorithm/blob/master/image-processing/radon_line_detection.m ) |
+[radon直线检测及绘制直线](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/ModestBean/algorithm/tree/master/image-processing) |
 
 
 ## C++
