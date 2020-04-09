@@ -4,7 +4,7 @@
 
 如果写的内容对您有帮助，或者帮您解决了棘手的问题，还希望您能点击一下右上角的``Star⭐️``，您的Star代表了一种认可，我才会更有动力坚持下去~~~万分感谢。
 
-当然，您有什么问题和意见都可以联系我，我的联系方式是[邮箱：yindou97@163.com](mailto:yindou97@163.com)，微信ID：qq619192323（别问这到底是QQ还是微信，问就是微信-笑）。我的主要博客：[CSDN](https://blog.csdn.net/ModestBean)
+当然，您有什么问题和意见都可以联系我，我的联系方式是[邮箱：yindou97@163.com](mailto:yindou97@163.com)，微信ID：qq619192323（别问这到底是QQ还是微信，问就是微信-笑）。我的主要博客：[博客地址](https://blog.csdn.net/ModestBean)
 
 ``重要：当您发现我所写的内容存在不合理的地方时，请您尽快联系我，因为在我眼里，误导他人是一件非常严重的事情。感谢~``
 
@@ -22,32 +22,32 @@
 
 ## 3D，图形学，点云
 
-内容 | 源代码位置 |  
--|-|
-[3D模型骨架提取及分析](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-skeleton) |
-[3D曲率原理及计算（3D-Mesh）](https://blog.csdn.net/ModestBean/article/details/89438082) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-PLY)|
+内容 | 源代码位置 | 效果 |  
+-|-|-|
+[3D模型骨架提取及分析](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-skeleton) | <img src="./result/skeleton.png" width=200> |
+[3D曲率原理及计算（3D-Mesh）](https://blog.csdn.net/ModestBean/article/details/89438082) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-PLY)| <img src="./result/curvature.png" width=200> |
 
 
 ## Shader着色器
 
-内容 | 源代码位置 |  
--|-|
-[Shader 3D人体移动光带的开发](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/shader) |
-[关键帧动画效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79152173)| [源代码位置](https://github.com/douysu/shader) |
-[树干弯曲顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79151382) | [源代码位置](https://github.com/douysu/shader) |
-[旋转扭动效果顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79141241) | [源代码位置](https://github.com/douysu/shader) |
-[波动效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79139315) | [源代码位置](https://github.com/douysu/shader) |
-[扭曲效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79171289) | [源代码位置](https://github.com/douysu/shader) |
-[膨胀效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79171410) | [源代码位置](https://github.com/douysu/shader) |
-[砖头墙壁纹理片元着色器实现](https://blog.csdn.net/ModestBean/article/details/79187023) | [源代码位置](https://github.com/douysu/shader) |
-[着色器滤镜、图像卷积与滤波、数字图像处理](https://blog.csdn.net/ModestBean/article/details/79192901)| [源代码位置](https://github.com/douysu/shader) |
-[体积雾特效的使用](https://blog.csdn.net/ModestBean/article/details/79251244)| [源代码位置](https://github.com/douysu/shader) |
+内容 | 源代码位置 | 效果 |
+-|-|-|
+[Shader 3D人体移动光带的开发](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r9.gif" width=150> |
+[关键帧动画效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79152173)| [源代码位置](https://github.com/douysu/shader) | <img src="./result/r1.gif" width=300> |
+[树干弯曲顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79151382) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r2.gif" width=300> |
+[旋转扭动效果顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79141241) | [源代码位置](https://github.com/douysu/shader) |<img src="./result/r3.gif" width=300> |
+[波动效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79139315) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r4.gif" width=300>  |
+[扭曲效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79171289) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r5.gif" width=300> |
+[膨胀效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79171410) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r6.gif" width=300> |
+[砖头墙壁纹理片元着色器实现](https://blog.csdn.net/ModestBean/article/details/79187023) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/zhuan.png" width=300> |
+[着色器滤镜、图像卷积与滤波、数字图像处理](https://blog.csdn.net/ModestBean/article/details/79192901)| [源代码位置](https://github.com/douysu/shader) | <img src="./result/shu1.png" width=300> |
+[体积雾特效的使用](https://blog.csdn.net/ModestBean/article/details/79251244)| [源代码位置](https://github.com/douysu/shader) | <img src="./result/r10.gif" width=300> |
 
 ## 图像处理
 
-内容 | 源代码位置 |  
--|-|
-[radon直线检测及绘制直线](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/algorithm/tree/master/image-processing) |
+内容 | 源代码位置 | 效果 |
+-|-|-|
+[radon直线检测及绘制直线](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/algorithm/tree/master/image-processing) | <img src="./result/radon.png" width=200> |
 
 
 ## C++
