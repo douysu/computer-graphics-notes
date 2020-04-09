@@ -12,12 +12,12 @@
 
 ## OpenGL
 
-内容 | 源代码位置 |  
--|-|
-[OpenGL Uniform缓冲对象（Uniform Buffer Object）](https://blog.csdn.net/ModestBean/article/details/79130517)  | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer) |
-[OpenGL 拖尾、刀光、剑光、尾焰效果的开发](https://blog.csdn.net/ModestBean/article/details/79245439) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/streak) | 
-[OpenGL 场景虚化](https://blog.csdn.net/ModestBean/article/details/79512208) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) |
-[OpenGL 摄像机漫游](https://blog.csdn.net/ModestBean/article/details/79130876) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam) |
+内容 | 源代码位置 | 效果 |
+-|-|-|
+[OpenGL Uniform缓冲对象（Uniform Buffer Object）](https://blog.csdn.net/ModestBean/article/details/79130517)  | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer) | <img src="./result/opengles-uniform-buffer.jfif" width=150> |
+[OpenGL 拖尾、刀光、剑光、尾焰效果的开发](https://blog.csdn.net/ModestBean/article/details/79245439) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/streak) | <img src="./result/streak.gif" width=150>| 
+[OpenGL 场景虚化](https://blog.csdn.net/ModestBean/article/details/79512208) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) | <img src="./result/blur-scene-gaussian--3d.jpg" width=250> |
+[OpenGL 摄像机漫游](https://blog.csdn.net/ModestBean/article/details/79130876) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam) | <img src="http://img.blog.csdn.net/20180122193902595?" width=250>  |
 
 
 ## 3D，图形学，点云
