@@ -25,6 +25,7 @@
 -|-|-|
 [3D模型骨架提取及分析](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-skeleton) | <img src="./result/skeleton.png" width=200> |
 [3D曲率原理及计算（3D-Mesh）](https://blog.csdn.net/ModestBean/article/details/89438082) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-PLY)| <img src="./result/curvature.png" width=200> |
+[c++光栅渲染器](https://zhuanlan.zhihu.com/p/128112217) | [源代码位置](https://github.com/douysu/tinyrendererYD)| <img src="./result/africanhead.png" width=200> |
 
 
 ## Shader着色器
