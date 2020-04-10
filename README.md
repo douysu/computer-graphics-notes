@@ -31,7 +31,7 @@
 
 内容 | 源代码位置 | 效果 |
 -|-|-|
-[Shader 3D人体移动光带的开发](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/shader) | <div align=center><img src="./result/r9.gif" width=150><div> |
+[Shader 3D人体移动光带的开发](https://blog.csdn.net/ModestBean/article/details/79241519) | [源代码位置](https://github.com/douysu/shader) | <div align=center><img src="./result/r9.gif" width=150><div> |
 [关键帧动画效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79152173)| [源代码位置](https://github.com/douysu/shader) | <img src="./result/r1.gif" width=300> |
 [树干弯曲顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79151382) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r2.gif" width=300> |
 [旋转扭动效果顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79141241) | [源代码位置](https://github.com/douysu/shader) |<img src="./result/r3.gif" width=300> |
