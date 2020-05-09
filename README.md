@@ -10,22 +10,17 @@
 
 # 目录
 
-## OpenGL
+## 3D，OpenGL，图形学
 
 内容 | 源代码位置 | 效果 |
 -|-|-|
+[c++光栅渲染器](https://zhuanlan.zhihu.com/p/128112217) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyrendererYD)| <div align=center><img src="./result/africanhead.png" width=200> |
 [OpenGL 拖尾、刀光、剑光、尾焰效果的开发](https://blog.csdn.net/ModestBean/article/details/79245439) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/streak) | <div align=center><img src="./result/streak.gif" width=150></div> | 
+[3D曲率原理及计算（3D-Mesh）](https://blog.csdn.net/ModestBean/article/details/89438082) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-PLY)| <div align=center><img src="./result/curvature.png" width=200> |
+[3D模型骨架提取及分析](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-skeleton) | <div align=center><img src="./result/skeleton.png" width=200> |
 [OpenGL 场景虚化](https://blog.csdn.net/ModestBean/article/details/79512208) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) | <img src="./result/blur-scene-gaussian--3d.jpg" width=300> |
 [OpenGL 摄像机漫游](https://blog.csdn.net/ModestBean/article/details/79130876) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam) | <img src="./result/CameraRoam.jfif" width=300> |
 [OpenGL Uniform缓冲对象（Uniform Buffer Object）](https://blog.csdn.net/ModestBean/article/details/79130517)  | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer) | <div align=center><img src="./result/opengles-uniform-buffer.jfif" width=150></div> |
-
-## 3D，图形学，点云
-
-内容 | 源代码位置 | 效果 |  
--|-|-|
-[3D模型骨架提取及分析](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-skeleton) | <img src="./result/skeleton.png" width=200> |
-[3D曲率原理及计算（3D-Mesh）](https://blog.csdn.net/ModestBean/article/details/89438082) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-PLY)| <img src="./result/curvature.png" width=200> |
-[c++光栅渲染器](https://zhuanlan.zhihu.com/p/128112217) | [源代码位置](https://github.com/douysu/tinyrendererYD)| <img src="./result/africanhead.png" width=200> |
 
 
 ## Shader着色器
