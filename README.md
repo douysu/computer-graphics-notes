@@ -4,7 +4,7 @@
 
 如果写的内容对您有帮助，或者帮您解决了棘手的问题，还希望您能点击一下右上角的``Star⭐️``，您的Star代表了一种认可，我才会更有动力坚持下去~~~万分感谢。
 
-当然，您有什么问题和意见都可以联系我，我的联系方式是[邮箱：yindou97@163.com](mailto:yindou97@163.com)，微信ID：qq619192323（别问这到底是QQ还是微信，问就是微信-笑）。我的知乎：[知乎地址](https://zhuanlan.zhihu.com/c_1218472587279433728) 我的博客：[博客地址](https://blog.csdn.net/ModestBean)
+当然，您有什么问题和意见都可以联系我，我的联系方式是[邮箱：yindou97@163.com](mailto:yindou97@163.com)，微信ID：qq619192323（别问这到底是QQ还是微信，问就是微信-笑）。我的知乎：[知乎地址](https://zhuanlan.zhihu.com/c_1218472587279433728) 我的博客：[博客地址](https://blog.csdn.net/ModestBean)。我的更多信息请查看我的[简历](https://douysu.github.io/images/cv-dou.pdf)。
 
 欢迎大家关注我的公众号-----3D & 图形 & 渲染 & 攻略，一起共同进步~
 
