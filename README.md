@@ -18,8 +18,8 @@
 
 内容 | 源代码位置 | 效果 |
 -|-|-|
-[C++实现光线追踪算法](https://zhuanlan.zhihu.com/p/144189898) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)| <div align=center><img src="./result/tinyraytracer.jpg" width=200> |
-[C++实现光栅渲染器](https://zhuanlan.zhihu.com/p/128112217) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyrendererYD)| <div align=center><img src="./result/africanhead.png" width=200> |
+[Ray Tracing（光线追踪）](https://zhuanlan.zhihu.com/p/144189898) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)| <div align=center><img src="./result/tinyraytracer.jpg" width=200> |
+[Software Rendering（软渲染）](https://zhuanlan.zhihu.com/p/128112217) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyrendererYD)| <div align=center><img src="./result/africanhead.png" width=200> |
 基于物理粒子系统的鱼群水族馆| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/wallpaper) | <div align=center><img src="./result/wallpaper.gif" width=150 ></div> |
 [医疗项目3D人体展示系统](https://blog.csdn.net/ModestBean/article/details/79241519) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/moving-light-strip) | <div align=center><img src="./result/r9.gif" width=150><div> |
 [OpenGL 拖尾、刀光、剑光、尾焰效果的开发](https://blog.csdn.net/ModestBean/article/details/79245439) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/streak) | <div align=center><img src="./result/streak.gif" width=150></div> | 
