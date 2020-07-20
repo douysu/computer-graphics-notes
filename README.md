@@ -4,7 +4,7 @@
 
 如果写的内容对您有帮助，或者帮您解决了棘手的问题，还希望您能点击一下右上角的``Star⭐️``，您的Star代表了一种认可，我才会更有动力坚持下去~~~万分感谢。
 
-当然，您有什么问题和意见都可以联系我，我的联系方式是[邮箱：yindou97@163.com](mailto:yindou97@163.com)，微信ID：douysu。我的知乎：[知乎地址](https://zhuanlan.zhihu.com/c_1218472587279433728) 我的博客：[博客地址](https://blog.csdn.net/ModestBean)。我的更多信息请查看我的[简历](https://douysu.github.io/images/cv-dou.pdf)。
+当然，您有什么问题和意见都可以联系我，我的联系方式是[邮箱：yindou97@163.com](mailto:yindou97@163.com)，微信ID：douysu。我的知乎：[知乎地址](https://zhuanlan.zhihu.com/graphics-douysu) 我的博客：[博客地址](https://blog.csdn.net/ModestBean)。我的更多信息请查看我的[简历](https://douysu.github.io/images/cv-dou.pdf)。
 
 欢迎大家关注我的公众号-----3D & 图形 & 渲染 & 攻略，一起共同进步~
 
@@ -16,10 +16,11 @@
 
 ## 3D，OpenGL，图形学
 
-内容 | 源代码位置 | 效果 |
+对应文章博客 | 源代码位置 | 效果 |
 -|-|-|
 [Ray Tracing（光线追踪）](https://zhuanlan.zhihu.com/p/144189898) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)| <div align=center><img src="./result/tinyraytracer.jpg" width=200> |
 [Software Rendering（软渲染）](https://zhuanlan.zhihu.com/p/128112217) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyrendererYD)| <div align=center><img src="./result/africanhead.png" width=200> |
+[Fluid Simulation(物理动画流体模拟) ](https://zhuanlan.zhihu.com/p/161808444) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tmelt-animation)| <div align=center><img src="./result/IISPH.gif" width=200> |
 基于物理粒子系统的鱼群水族馆| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/wallpaper) | <div align=center><img src="./result/wallpaper.gif" width=150 ></div> |
 [医疗项目3D人体展示系统](https://blog.csdn.net/ModestBean/article/details/79241519) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/moving-light-strip) | <div align=center><img src="./result/r9.gif" width=150><div> |
 [OpenGL 拖尾、刀光、剑光、尾焰效果的开发](https://blog.csdn.net/ModestBean/article/details/79245439) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/streak) | <div align=center><img src="./result/streak.gif" width=150></div> | 
