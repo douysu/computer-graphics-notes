@@ -22,25 +22,25 @@
 ## 3D，OpenGL，图形学
 
 对应文章博客 | 源代码位置 | 效果 |
--|-|-|
+:-:|:-:|:-:|
 [Ray Tracing（光线追踪）](https://zhuanlan.zhihu.com/p/144189898) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)| <div align=center><img src="./result/tinyraytracer.jpg" width=200> |
 [Software Rendering（软渲染）](https://zhuanlan.zhihu.com/p/128112217) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyrendererYD)| <div align=center><img src="./result/africanhead.png" width=200> |
-[Fluid Simulation(物理动画流体模拟) ](https://zhuanlan.zhihu.com/p/161808444) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/melt-animation)| <div align=center><img src="./result/IISPH.gif" width=200> |
-基于物理粒子系统的鱼群水族馆| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/wallpaper) | <div align=center><img src="./result/wallpaper.gif" width=150 ></div> |
-[医疗项目3D人体展示系统](https://blog.csdn.net/ModestBean/article/details/79241519) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/moving-light-strip) | <div align=center><img src="./result/r9.gif" width=150><div> |
-[OpenGL 拖尾、刀光、剑光、尾焰效果的开发](https://blog.csdn.net/ModestBean/article/details/79245439) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/streak) | <div align=center><img src="./result/streak.gif" width=150></div> | 
-[3D曲率原理及计算（3D-Mesh）](https://blog.csdn.net/ModestBean/article/details/89438082) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-PLY)| <div align=center><img src="./result/curvature.png" width=200> |
-[3D模型骨架提取及分析](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-skeleton) | <div align=center><img src="./result/skeleton.png" width=200> |
-[OpenGL 场景Blur虚化 景深效果](https://blog.csdn.net/ModestBean/article/details/79512208) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) | <img src="./result/blur-scene-gaussian--3d.jpg" width=300> |
-人物透视X光效果| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) | <img src="./result/x-ray-scene_3d.png" width=300> |
-[OpenGL 摄像机漫游](https://blog.csdn.net/ModestBean/article/details/79130876) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam) | <img src="./result/CameraRoam.jfif" width=300> |
-[OpenGL Uniform缓冲对象（Uniform Buffer Object）](https://blog.csdn.net/ModestBean/article/details/79130517)  | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer) | <div align=center><img src="./result/opengles-uniform-buffer.jfif" width=150></div> |
+[Fluid Simulation（物理动画流体模拟）](https://zhuanlan.zhihu.com/p/161808444) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/melt-animation)| <div align=center><img src="./result/IISPH.gif" width=200> |
+[3D Curvature（3D曲率原理及计算）](https://blog.csdn.net/ModestBean/article/details/89438082) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-PLY)| <div align=center><img src="./result/curvature.png" width=200> |
+[3D Skeleton Analysis（3D模型骨架提取及分析）](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-skeleton) | <div align=center><img src="./result/skeleton.png" width=200> |
+[3D Medical Body（医疗项目3D人体展示系统）](https://blog.csdn.net/ModestBean/article/details/79241519) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/moving-light-strip) | <div align=center><img src="./result/r9.gif" width=150><div> |
+[OpenGL MotionStreak（OpenGL拖尾、刀光、剑光、尾焰效果）](https://blog.csdn.net/ModestBean/article/details/79245439) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/streak) | <div align=center><img src="./result/streak.gif" width=150></div> | 
+3D Aquarium（基于物理粒子系统的鱼群水族馆）| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/wallpaper) | <div align=center><img src="./result/wallpaper.gif" width=150 ></div> |
+[3D Scene Blur（OpenGL场景Blur虚化景深效果）](https://blog.csdn.net/ModestBean/article/details/79512208) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) | <img src="./result/blur-scene-gaussian--3d.jpg" width=300> |
+Multi-buffer X-Ray（多缓冲X-Ray人物透视效果）| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) | <img src="./result/x-ray-scene_3d.png" width=300> |
+[OpenGL Camera（OpenGL 摄像机漫游）](https://blog.csdn.net/ModestBean/article/details/79130876) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam) | <img src="./result/CameraRoam.jfif" width=300> |
+[OpenGL Uniform Buffer Object（Uniform缓冲对象）](https://blog.csdn.net/ModestBean/article/details/79130517)  | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer) | <div align=center><img src="./result/opengles-uniform-buffer.jfif" width=150></div> |
 
 
 ## Shader着色器
 
 内容 | 源代码位置 | 效果 |
--|-|-|
+:-:|:-:|:-:|
 [关键帧动画效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79152173)| [源代码位置](https://github.com/douysu/shader) | <img src="./result/r1.gif" width=300> |
 [树干弯曲顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79151382) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r2.gif" width=300> |
 [旋转扭动效果顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79141241) | [源代码位置](https://github.com/douysu/shader) |<img src="./result/r3.gif" width=300> |
@@ -54,14 +54,14 @@
 ## 图像处理
 
 内容 | 源代码位置 | 效果 |
--|-|-|
+:-:|:-:|:-:|
 [radon直线检测及绘制直线](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/algorithm/tree/master/image-processing) | <img src="./result/radon.png" width=200> |
 
 
 ## C++
 
 内容 | 源代码位置 |  
--|-|
+:-:|:-:|
 [C++ 高级数据类型枚举Enum](https://blog.csdn.net/ModestBean/article/details/79173704) | [源代码位置](https://github.com/douysu/c-code) |
 [C++ 函数内联inline](https://blog.csdn.net/ModestBean/article/details/79178943) | [源代码位置](https://github.com/douysu/c-code) | 
 [C++ 泛型编程—Template模板](https://blog.csdn.net/ModestBean/article/details/79562998) | [源代码位置](https://github.com/douysu/c-code) |
@@ -79,5 +79,5 @@
 ## 算法
 
 内容 | 源代码位置 |  
--|-|
+:-:|:-:|
 [ACO蚂蚁寻路最短路径TSP问题](https://blog.csdn.net/ModestBean/article/details/101852092)| [源代码位置](https://github.com/douysu/algorithm/tree/master/ACO_aunt_optimal_path) |
