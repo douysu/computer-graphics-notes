@@ -32,7 +32,7 @@
 [OpenGL MotionStreak（OpenGL拖尾、刀光、剑光、尾焰效果）](https://blog.csdn.net/ModestBean/article/details/79245439) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/streak) | <div align=center><img src="./result/streak.gif" width=150></div> | 
 3D Aquarium（基于物理粒子系统的鱼群水族馆）| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/wallpaper) | <div align=center><img src="./result/wallpaper.gif" width=150 ></div> |
 [3D Scene Blur（OpenGL场景Blur虚化景深效果）](https://blog.csdn.net/ModestBean/article/details/79512208) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) | <img src="./result/blur-scene-gaussian--3d.jpg" width=300> |
-Multi-buffer X-Ray（多缓冲X-Ray人物透视效果）| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) | <img src="./result/x-ray-scene_3d.png" width=300> |
+Multi-buffer X-Ray（多缓冲X-Ray人物透视效果）| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/x-ray-scene_3d) | <img src="./result/x-ray-scene_3d.png" width=300> |
 [OpenGL Camera（OpenGL 摄像机漫游）](https://blog.csdn.net/ModestBean/article/details/79130876) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam) | <img src="./result/CameraRoam.jfif" width=300> |
 [OpenGL Uniform Buffer Object（Uniform缓冲对象）](https://blog.csdn.net/ModestBean/article/details/79130517)  | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer) | <div align=center><img src="./result/opengles-uniform-buffer.jfif" width=150></div> |
 
