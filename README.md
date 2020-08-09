@@ -23,6 +23,7 @@
 
 对应文章博客 | 源代码位置 | 效果 |
 :-:|:-:|:-:|
+[Physically Based Rendering-IBL（PBR基于物理渲染）](https://zhuanlan.zhihu.com/p/176474625) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/physically-rendering)| <div align=center><img src="./result/PBR-OpenGL.png" width=200> <br>[[演示视频]](https://www.bilibili.com/video/BV1TV411z7qe)|
 [Ray Tracing（光线追踪）](https://zhuanlan.zhihu.com/p/144189898) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)| <div align=center><img src="./result/tinyraytracer.jpg" width=200> |
 [Software Rendering（软渲染）](https://zhuanlan.zhihu.com/p/128112217) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyrendererYD)| <div align=center><img src="./result/africanhead.png" width=200> |
 [Fluid Simulation（物理动画流体模拟）](https://zhuanlan.zhihu.com/p/161808444) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/melt-animation)| <div align=center><img src="./result/IISPH.gif" width=200> |
