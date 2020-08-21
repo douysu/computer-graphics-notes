@@ -12,9 +12,10 @@
 
 加入微信群比较好，微信大家使用较多~
 
-<img src="./result/wechat.png"> 
-<br></br>
-<img src="./result/qq.png"> 
+<img src="./result/wechat.png" width = "450"> 
+
+
+<img src="./result/qq.png" width = "450"> 
 
 # 目录
 - [3D，OpenGL，图形学](#3dopengl%E5%9B%BE%E5%BD%A2%E5%AD%A6)
