@@ -8,12 +8,15 @@
 
 ``重要：当您发现我所写的内容存在不合理的地方时，请您尽快联系我，因为在我眼里，误导他人是一件非常严重的事情。感谢~``
 
+## 公众号
+
+<img src="./result/gong.png" width = "500"> 
+
 ## 技术交流群
 
 加入微信群比较好，微信大家使用较多~
 
 <img src="./result/wechat.png" width = "450"> 
-
 
 <img src="./result/qq.png" width = "450"> 
 
