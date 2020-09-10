@@ -27,13 +27,6 @@
 - [C++](#c)
 - [算法](#%E7%AE%97%E6%B3%95)
 
-
-<style>
-table th:first-of-type {  
-    width: 280px; 
-}
-</style>
-
 ## 3D，OpenGL，图形学
 
 内容 | 介绍 | 
@@ -47,25 +40,25 @@ table th:first-of-type {
 <img src="./result/r9.gif" width=150> | 3D Medical Body（医疗项目3D人体展示系统） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79241519)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/moving-light-strip)]
 <img src="./result/streak.gif" width=150> | OpenGL MotionStreak（OpenGL拖尾、刀光、剑光、尾焰效果） <br> [[WebPage](https://zhuanlan.zhihu.com/p/112252151)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/streak)]
 <img src="./result/wallpaper.gif" width=150> | 3D Aquarium（基于物理粒子系统的鱼群水族馆） <br>  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/wallpaper)]
-<img src="./result/blur-scene-gaussian--3d.jpg" width=300> | 3D Scene Blur（OpenGL场景Blur虚化景深效果） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79512208)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d)]
-<img src="./result/x-ray-scene_3d.png" width=300> | Multi-buffer X-Ray（多缓冲X-Ray人物透视效果） <br> [[Code](https://github.com/douysu/graphics-algorithm/tree/master/x-ray-scene_3d)]
-<img src="./result/CameraRoam.jfif" width=300> | OpenGL Uniform Buffer Object（Uniform缓冲对象） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130517)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer)]
+<img src="./result/blur-scene-gaussian--3d.jpg" width=200> | 3D Scene Blur（OpenGL场景Blur虚化景深效果） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79512208)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d)]
+<img src="./result/x-ray-scene_3d.png" width=200> | Multi-buffer X-Ray（多缓冲X-Ray人物透视效果） <br> [[Code](https://github.com/douysu/graphics-algorithm/tree/master/x-ray-scene_3d)]
+<img src="./result/CameraRoam.jfif" width=200> | OpenGL Uniform Buffer Object（Uniform缓冲对象） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130517)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer)]
 <img src="./result/opengles-uniform-buffer.jfif" width=150> | OpenGL Camera（OpenGL 摄像机漫游） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130876)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam)]
 
 
 ## Shader着色器
 
 内容 | 介绍 | 
-:-|:-|
-<img src="./result/r1.gif" width=300> | 关键帧动画效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79152173)] [[Code](https://github.com/douysu/shader)]
-<img src="./result/r2.gif" width=300> | 树干弯曲顶点着色器实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79151382)] [[Code](https://github.com/douysu/shader)]
-<img src="./result/r3.gif" width=300> | 旋转扭动效果顶点着色器实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79141241)] [[Code](https://github.com/douysu/shader)]
-<img src="./result/r4.gif" width=300> | 波动效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79139315)] [[Code](https://github.com/douysu/shader)]
-<img src="./result/r5.gif" width=300> | 扭曲效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79171289)] [[Code](https://github.com/douysu/shader)]
-<img src="./result/r6.gif" width=300> | 膨胀效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79171410)] [[Code](https://github.com/douysu/shader)]
-<img src="./result/zhuan.png" width=300> | 砖头墙壁纹理片元着色器实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79187023)] [[Code](https://github.com/douysu/shader)]
-<img src="./result/shu1.png" width=300> | 着色器滤镜、图像卷积与滤波、数字图像处理 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79192901)] [[Code](https://github.com/douysu/shader)]
-<img src="./result/r10.gif" width=300> | 体积雾特效的使用 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79251244)] [[Code](https://github.com/douysu/shader)]
+:-:|:-|
+<img src="./result/r1.gif" width=200> | 关键帧动画效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79152173)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r2.gif" width=200> | 树干弯曲顶点着色器实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79151382)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r3.gif" width=200> | 旋转扭动效果顶点着色器实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79141241)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r4.gif" width=200> | 波动效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79139315)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r5.gif" width=200> | 扭曲效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79171289)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r6.gif" width=200> | 膨胀效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79171410)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/zhuan.png" width=200> | 砖头墙壁纹理片元着色器实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79187023)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/shu1.png" width=200> | 着色器滤镜、图像卷积与滤波、数字图像处理 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79192901)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r10.gif" width=200> | 体积雾特效的使用 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79251244)] [[Code](https://github.com/douysu/shader)]
 
 
 ## 图像处理
