@@ -27,7 +27,6 @@
 - [C++](#c)
 - [算法](#%E7%AE%97%E6%B3%95)
 
-## 3D，OpenGL，图形学
 
 <style>
 table th:first-of-type {  
@@ -35,8 +34,10 @@ table th:first-of-type {
 }
 </style>
 
+## 3D，OpenGL，图形学
+
 内容 | 介绍 | 
-:-|:-|
+:-:|:-|
 <img src="./result/PBR-OpenGL.jpg" width=200> | Physically Based Rendering-IBL（PBR基于物理渲染）<br>[[Video](https://www.bilibili.com/video/BV1TV411z7qe)] [[WebPage](https://zhuanlan.zhihu.com/p/176474625)] [[Code](https://github.com/douysu/graphics-algorithm/tree/master/physically-rendering)]
 <img src="./result/tinyraytracer.jpg" width=200> | Ray Tracing（光线追踪) <br> [[WebPage](https://zhuanlan.zhihu.com/p/144189898)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)]
 <img src="./result/africanhead.jpg" width=200> | Software Rendering（软渲染） <br> [[WebPage](https://zhuanlan.zhihu.com/p/128112217)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/tinyrendererYD)]
