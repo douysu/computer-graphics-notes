@@ -29,42 +29,49 @@
 
 ## 3D，OpenGL，图形学
 
-对应文章博客 | 源代码位置 | 效果 |
-:-:|:-:|:-:|
-[Physically Based Rendering-IBL（PBR基于物理渲染）](https://zhuanlan.zhihu.com/p/176474625) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/physically-rendering)| <div align=center><img src="./result/PBR-OpenGL.png" width=200> <br>[[演示视频]](https://www.bilibili.com/video/BV1TV411z7qe)|
-[Ray Tracing（光线追踪）](https://zhuanlan.zhihu.com/p/144189898) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)| <div align=center><img src="./result/tinyraytracer.jpg" width=200> |
-[Software Rendering（软渲染）](https://zhuanlan.zhihu.com/p/128112217) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/tinyrendererYD)| <div align=center><img src="./result/africanhead.png" width=200> |
-[Fluid Simulation（物理动画流体模拟）](https://zhuanlan.zhihu.com/p/161808444) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/melt-animation)| <div align=center><img src="./result/IISPH.gif" width=200> |
-[3D Curvature（3D曲率原理及计算）](https://blog.csdn.net/ModestBean/article/details/89438082) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-PLY)| <div align=center><img src="./result/curvature.png" width=200> |
-[3D Skeleton Analysis（3D模型骨架提取及分析）](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/3D-skeleton) | <div align=center><img src="./result/skeleton.png" width=200> |
-[3D Medical Body（医疗项目3D人体展示系统）](https://blog.csdn.net/ModestBean/article/details/79241519) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/moving-light-strip) | <div align=center><img src="./result/r9.gif" width=150><div> |
-[OpenGL MotionStreak（OpenGL拖尾、刀光、剑光、尾焰效果）](https://blog.csdn.net/ModestBean/article/details/79245439) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/streak) | <div align=center><img src="./result/streak.gif" width=150></div> | 
-3D Aquarium（基于物理粒子系统的鱼群水族馆）| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/wallpaper) | <div align=center><img src="./result/wallpaper.gif" width=150 ></div> |
-[3D Scene Blur（OpenGL场景Blur虚化景深效果）](https://blog.csdn.net/ModestBean/article/details/79512208) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d) | <img src="./result/blur-scene-gaussian--3d.jpg" width=300> |
-Multi-buffer X-Ray（多缓冲X-Ray人物透视效果）| [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/x-ray-scene_3d) | <img src="./result/x-ray-scene_3d.png" width=300> |
-[OpenGL Camera（OpenGL 摄像机漫游）](https://blog.csdn.net/ModestBean/article/details/79130876) | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam) | <img src="./result/CameraRoam.jfif" width=300> |
-[OpenGL Uniform Buffer Object（Uniform缓冲对象）](https://blog.csdn.net/ModestBean/article/details/79130517)  | [源代码位置](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer) | <div align=center><img src="./result/opengles-uniform-buffer.jfif" width=150></div> |
+<style>
+table th:first-of-type {  
+    width: 280px; 
+}
+</style>
+
+内容 | 介绍 | 
+:-|:-|
+<img src="./result/PBR-OpenGL.jpg" width=200> | Physically Based Rendering-IBL（PBR基于物理渲染）<br>[[Video](https://www.bilibili.com/video/BV1TV411z7qe)] [[WebPage](https://zhuanlan.zhihu.com/p/176474625)] [[Code](https://github.com/douysu/graphics-algorithm/tree/master/physically-rendering)]
+<img src="./result/tinyraytracer.jpg" width=200> | Ray Tracing（光线追踪) <br> [[WebPage](https://zhuanlan.zhihu.com/p/144189898)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/tinyraytracerYD)]
+<img src="./result/africanhead.jpg" width=200> | Software Rendering（软渲染） <br> [[WebPage](https://zhuanlan.zhihu.com/p/128112217)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/tinyrendererYD)]
+<img src="./result/IISPH.png" width=200> | Fluid Simulation(物理动画流体模拟) <br> [[Video](https://www.bilibili.com/video/BV1454y127Vy?from=search&seid=5825690446384116530)] [[WebPage](https://zhuanlan.zhihu.com/p/161808444)] [[Code](https://github.com/douysu/graphics-algorithm/tree/master/melt-animation)]
+<img src="./result/curvature.png" width=200> | 3D Curvature（3D曲率原理及计算） <br> [[WebPage](https://zhuanlan.zhihu.com/p/112294045)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/3D-PLY)]
+<img src="./result/skeleton.jpg" width=200> | 3D Skeleton Analysis（3D模型骨架提取及分析） <br> [[WebPage](https://zhuanlan.zhihu.com/p/112299945)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/3D-skeleton)]
+<img src="./result/r9.gif" width=150> | 3D Medical Body（医疗项目3D人体展示系统） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79241519)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/moving-light-strip)]
+<img src="./result/streak.gif" width=150> | OpenGL MotionStreak（OpenGL拖尾、刀光、剑光、尾焰效果） <br> [[WebPage](https://zhuanlan.zhihu.com/p/112252151)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/streak)]
+<img src="./result/wallpaper.gif" width=150> | 3D Aquarium（基于物理粒子系统的鱼群水族馆） <br>  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/wallpaper)]
+<img src="./result/blur-scene-gaussian--3d.jpg" width=300> | 3D Scene Blur（OpenGL场景Blur虚化景深效果） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79512208)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/blur-scene-gaussian--3d)]
+<img src="./result/x-ray-scene_3d.png" width=300> | Multi-buffer X-Ray（多缓冲X-Ray人物透视效果） <br> [[Code](https://github.com/douysu/graphics-algorithm/tree/master/x-ray-scene_3d)]
+<img src="./result/CameraRoam.jfif" width=300> | OpenGL Uniform Buffer Object（Uniform缓冲对象） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130517)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer)]
+<img src="./result/opengles-uniform-buffer.jfif" width=150> | OpenGL Camera（OpenGL 摄像机漫游） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130876)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam)]
 
 
 ## Shader着色器
 
-内容 | 源代码位置 | 效果 |
-:-:|:-:|:-:|
-[关键帧动画效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79152173)| [源代码位置](https://github.com/douysu/shader) | <img src="./result/r1.gif" width=300> |
-[树干弯曲顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79151382) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r2.gif" width=300> |
-[旋转扭动效果顶点着色器实现](https://blog.csdn.net/ModestBean/article/details/79141241) | [源代码位置](https://github.com/douysu/shader) |<img src="./result/r3.gif" width=300> |
-[波动效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79139315) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r4.gif" width=300>  |
-[扭曲效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79171289) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r5.gif" width=300> |
-[膨胀效果顶点着色器的实现](https://blog.csdn.net/ModestBean/article/details/79171410) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/r6.gif" width=300> |
-[砖头墙壁纹理片元着色器实现](https://blog.csdn.net/ModestBean/article/details/79187023) | [源代码位置](https://github.com/douysu/shader) | <img src="./result/zhuan.png" width=300> |
-[着色器滤镜、图像卷积与滤波、数字图像处理](https://blog.csdn.net/ModestBean/article/details/79192901)| [源代码位置](https://github.com/douysu/shader) | <img src="./result/shu1.png" width=300> |
-[体积雾特效的使用](https://blog.csdn.net/ModestBean/article/details/79251244)| [源代码位置](https://github.com/douysu/shader) | <img src="./result/r10.gif" width=300> |
+内容 | 介绍 | 
+:-|:-|
+<img src="./result/r1.gif" width=300> | 关键帧动画效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79152173)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r2.gif" width=300> | 树干弯曲顶点着色器实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79151382)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r3.gif" width=300> | 旋转扭动效果顶点着色器实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79141241)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r4.gif" width=300> | 波动效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79139315)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r5.gif" width=300> | 扭曲效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79171289)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r6.gif" width=300> | 膨胀效果顶点着色器的实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79171410)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/zhuan.png" width=300> | 砖头墙壁纹理片元着色器实现 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79187023)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/shu1.png" width=300> | 着色器滤镜、图像卷积与滤波、数字图像处理 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79192901)] [[Code](https://github.com/douysu/shader)]
+<img src="./result/r10.gif" width=300> | 体积雾特效的使用 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79251244)] [[Code](https://github.com/douysu/shader)]
+
 
 ## 图像处理
 
-内容 | 源代码位置 | 效果 |
-:-:|:-:|:-:|
-[radon直线检测及绘制直线](https://blog.csdn.net/ModestBean/article/details/89632272) | [源代码位置](https://github.com/douysu/algorithm/tree/master/image-processing) | <img src="./result/radon.png" width=200> |
+内容 | 介绍 | 
+:-|:-|
+<img src="./result/radon.png" width=200> | radon直线检测及绘制直线 <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/89632272)] [[Code](https://github.com/douysu/algorithm/tree/master/image-processing)]
 
 
 ## C++
