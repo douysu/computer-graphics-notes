@@ -4,7 +4,7 @@
 
 如果写的内容对您有帮助，或者帮您解决了棘手的问题，还希望一个``Star⭐️``。
 
-当然，您有什么问题和意见都可以联系我，我的联系方式-微信：``douysuu``。 [邮箱：yindou97@163.com](mailto:yindou97@163.com)。我的知乎：[知乎地址](https://zhuanlan.zhihu.com/graphics-douysu) 我的博客：[博客地址](https://blog.csdn.net/ModestBean)。
+当然，您有什么问题和意见都可以联系我，我的联系方式-微信：``douysuu``。 [邮箱：yindou97@163.com](mailto:yindou97@163.com)。我的知乎：[知乎地址](https://zhuanlan.zhihu.com/graphics-douysu) 
 
 ## 公众号
 
