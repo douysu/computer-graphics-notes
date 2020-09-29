@@ -6,10 +6,6 @@
 
 当然，您有什么问题和意见都可以联系我，我的联系方式-微信：``douysuu``。 [邮箱：yindou97@163.com](mailto:yindou97@163.com)。我的知乎：[知乎地址](https://zhuanlan.zhihu.com/graphics-douysu) 
 
-## 公众号
-
-<img src="./result/gong.png" width = "500"> 
-
 ## 技术交流群
 
 <img src="./result/wechat.png" width = "450"> 
