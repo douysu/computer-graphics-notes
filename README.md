@@ -34,9 +34,8 @@
 <img src="./result/r9.gif" width=150> | 3D Medical Body（医疗项目3D人体展示系统） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79241519)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/moving-light-strip)]
 <img src="./result/streak.gif" width=150> | OpenGL MotionStreak（OpenGL拖尾、刀光、剑光、尾焰效果） <br> [[WebPage](https://zhuanlan.zhihu.com/p/112252151)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/streak)]
 <img src="./result/wallpaper.gif" width=150> | 3D Aquarium（基于物理粒子系统的鱼群水族馆） <br>  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/wallpaper)]
-<img src="./result/CameraRoam.jfif" width=200> | OpenGL Camera（OpenGL 摄像机漫游） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130876)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam)]
 <img src="./result/opengles-uniform-buffer.jfif" width=150> | OpenGL Uniform Buffer Object（Uniform缓冲对象） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130517)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/opengles-uniform-buffer)]
-
+<img src="./result/CameraRoam.jfif" width=200> | OpenGL Camera（OpenGL 摄像机漫游） <br> [[WebPage](https://blog.csdn.net/ModestBean/article/details/79130876)]  [[Code](https://github.com/douysu/graphics-algorithm/tree/master/CameraRoam)]
 
 
 ## Shader着色器
